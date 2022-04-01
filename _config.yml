@@ -5,4 +5,5 @@ plugins:
 title: [Kara Dean]
 description: [PhD Candidate]
 
-![Headshot](/docs/assets/headshot_KD.PNG)
+author:
+  picture: ![Headshot](/docs/assets/headshot_KD.PNG)
