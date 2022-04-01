@@ -4,14 +4,8 @@ plugins:
 
 title: [Kara Dean]
 description: [PhD Candidate]
-logo: ![Headshot](/docs/assets/headshot_KD.PNG)
+logo: /docs/assets/headshot_KD.PNG
 
-# Navigation Menus
-header_navigation:
-  - title: About
-    url: /about/
 
-  - title: Projects
-    url: /archive/
 
 
