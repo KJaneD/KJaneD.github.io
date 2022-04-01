@@ -7,8 +7,10 @@ As an undergraduate student I contributed to the [Global Water Pathogens Project
 
 My master's research was funded by the EPA Grant "Right Sizing Tomorrow's Water Systems for Efficiency, Sustainability, and Public Health" (#R836890). The goal of this project was to better understand and predict water quality within premise plumbing systems. Under this project, I fit novel dose response models for three opportunistic pathogens and conducted a reverse QMRA for Pseudomonas aeruginosa hand washing, face washing, and showering exposure events. My work was one component of a multi-objective and interdisciplinary effort that included researchers from Purdue University, Michigan State University, Tulane University, San Jose State University, Manhattan College and the University of Memphis. Additional information and resources are available at the [Center for Plumbing Safety](https://engineering.purdue.edu/PlumbingSafety). 
 
-Currently I am a National Science Foundation Graduate Research Fellow, and my research is focused on improving our understanding of pathogen persistnece in surface waters to better inform decision makers in the fields of water treatment and management.  
+Currently I am a National Science Foundation Graduate Research Fellow, and my research is focused on improving our understanding of pathogen persistnece in surface waters to better inform decision makers in the fields of water treatment and management. 
 
+## What is QMRA?
+The QMRA framework uses mathematical modeling to characterize the risk associated with microbial contaminants in environmental matrices. The [QMRA Wiki] (http://qmrawiki.org/) is a great resource to learn about the different components of a QMRA, to access peer-reviewed dose response models, and to explore different case studies. I attended the QMRA Institute in 2018 and have continued to apply that knowledge to better understand pathogen-related risks in surface and drinking waters. The next institute is planned for this upcoming July: https://events.anr.msu.edu/QMRAIV2022/  
 
 ## Professional Memberships
 I am a member of the Society for Risk Analysis and the Water Environment Federation. 
