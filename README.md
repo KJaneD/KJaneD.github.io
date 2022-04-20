@@ -13,5 +13,5 @@ Currently I am a National Science Foundation Graduate Research Fellow, and my re
 The QMRA framework uses mathematical modeling to characterize the risk associated with microbial contaminants in environmental matrices. The [QMRA Wiki](http://qmrawiki.org/) is a great resource to learn about the different components of a QMRA, to access peer-reviewed dose response models, and to explore different case studies. I attended the QMRA Institute in 2018 and have continued to apply that knowledge to better understand pathogen-related risks in surface and drinking waters. The next institute is planned for this upcoming July- [QMRA IV](https://events.anr.msu.edu/QMRAIV2022/).  
 
 ## Professional Memberships
-I am a member of the Society for Risk Analysis and the Water Environment Federation. 
+I am a member of the Society for Risk Analysis, Water Environment Federation and Association of Environmental Engineering and Science Professors. 
  
