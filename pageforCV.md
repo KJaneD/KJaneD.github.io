@@ -1,4 +1,4 @@
-**EDUCATION**
+#**EDUCATION**
 
 PhD Biosystems Engineering                                    Expected December 2022
   Dual Degree: PhD Environmental Science and Policy
@@ -15,7 +15,7 @@ BS Biosystems Engineering                                                   May 
 	Michigan State University, East Lansing, MI, GPA: 3.93	
 
 
-**RESEARCH EXPERIENCE**
+#**RESEARCH EXPERIENCE**
 
 National Science Foundation Graduate Research Fellow                 Sep 2019-Present
   •	Pursue PhD studies with the goal of elucidating factors involved in the fate and 
@@ -41,7 +41,7 @@ Undergraduate Researcher
     Farm’s implementation of solar heating panels, LED lighting, and center-pivot 
     irrigation systems
 
-**AWARDS AND HONORS**
+#**AWARDS AND HONORS**
 
 |Fitch H. Beach Award Winner, Biosystems and Agricultural Engineering|2022|
 |Fitch H. Beach Award Nominee, College of Engineering| 2022|
