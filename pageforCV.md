@@ -1,4 +1,5 @@
 **EDUCATION**
+
 PhD Biosystems Engineering                                    Expected December 2022
   Dual Degree: PhD Environmental Science and Policy
 	Michigan State University, East Lansing, MI
@@ -15,6 +16,7 @@ BS Biosystems Engineering                                                   May 
 
 
 **RESEARCH EXPERIENCE**
+
 National Science Foundation Graduate Research Fellow                 Sep 2019-Present
   •	Pursue PhD studies with the goal of elucidating factors involved in the fate and 
     transport of microbial hazards in surface and drinking water to ultimately predict 
@@ -40,6 +42,7 @@ Undergraduate Researcher
     irrigation systems
 
 **AWARDS AND HONORS**
+
 |Fitch H. Beach Award Winner, Biosystems and Agricultural Engineering|2022|
 |Fitch H. Beach Award Nominee, College of Engineering| 2022|
 |Travel Award Winner, College of Agriculture and Natural Resources|	2022|
