@@ -1,4 +1,4 @@
-# Research Projects
+# Research
 
 ## Past Projects
 <img align="right" src="/docs/assets/GWPP_Logo.PNG" alt="Global Water Pathogen Project Logo and Website Header">
