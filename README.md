@@ -12,7 +12,7 @@ The QMRA framework uses mathematical modeling to characterize the risk associate
 <img align="center" src="/docs/assets/qmra_steps.PNG" alt="Diagram demonstrating the five steps of a QMRA (taken from the Wiki): Hazard ID, Exposure Assessment, Dose Response Assessment, Risk Characterization, and Risk Management">
 
 ## More About Me...
-Outside of academia, I'm an avid backpacker and hiker. I live in Michigan so my more frequent destinations are the Upper Peninsula and Canada, but I've also enjoyed exploring parts of Maine, Colorado, and Montana in the past five years. Spending time in nature helps inspire me to find ways to leverage risk assessment, exposure science, engineering methods to protect the planet and move towards a more sustainable future. Some [photos](./about_me_photos.md) to inspire you!  
+Outside of academia, I'm an avid backpacker and hiker. I live in Michigan so my more frequent destinations are the Upper Peninsula and Canada, but I've also enjoyed exploring parts of Maine, Colorado, and Montana in the past five years. Spending time in nature helps inspire me to find ways to leverage risk assessment, exposure science, and engineering methods to protect the planet and move towards a more sustainable future. Some [photos](./about_me_photos.md) to inspire you!  
 
 
  
