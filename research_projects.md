@@ -1,7 +1,7 @@
 # Research
 
 ## Past Projects
-<img align="right" src="/docs/assets/GWPP_Logo.PNG" alt="Global Water Pathogen Project Logo and Website Header">
+<img align="right" src="/docs/assets/GWPP_Logo.PNG" width="200" height="100" alt="Global Water Pathogen Project Logo and Website Header">
 As an undergraduate student I contributed to the [Global Water Pathogens Project](https://www.waterpathogens.org/) by conducting a systematic literature review to identify persistence datasets for various targets in wastewater-related matrices. A suite of persistence models were fit to these datasets to attempt to identify the model forms best able to describe the persistence behaviors of the different pathogen types. This work highlighted the importance of using pathogen specific persistence data and further suggested that pathogen persistence in the environment may be more dynamic than the commonly applied first-order decay model. This was also my first experience working in R and dealing with large datasets.
 
  <img align="left" src="/docs/assets/old_wiki_logo.PNG"  width="100" height="100" alt="QMRA Wiki Logo">
