@@ -5,7 +5,7 @@ I am a PhD Candidate in the Department of Biosystems and Agricultural Engineerin
 Check out my [CV](./CV_rmd_KD.html) to see my background and accomplishments in academia. 
 
 ## Research Projects
-I have had the opportunity to contribute to a number of projects during my time at Michigan State. These efforts have culminated in 10 peer-reviewed publications and more than 15 local and national presentations. For more details, check out my [Research Projects](./research_projects.html).
+I have had the opportunity to contribute to a number of projects during my time at Michigan State. These efforts have culminated in 12 peer-reviewed publications and more than 15 local and national presentations. For more details, check out my [Research Projects](./research_projects.html).
 
 ## What is QMRA?
 The QMRA framework uses mathematical modeling to characterize the risk associated with microbial contaminants in environmental matrices. The [QMRA Wiki](http://qmrawiki.org/) is a great resource to learn about the different components of a QMRA, to access peer-reviewed dose response models, and to explore different case studies. I attended the QMRA Institute in 2018 and have continued to apply that knowledge to better understand pathogen-related risks in surface and drinking waters. The next institute is planned for this upcoming July- [QMRA IV](https://events.anr.msu.edu/QMRAIV2022/).
