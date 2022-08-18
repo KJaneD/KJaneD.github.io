@@ -16,8 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## **EDUCATION**
 ________________________________________________________________________________
-<!---------------------------- -------------------------------------->    | <!-- -->  
------------------------------------------------------------------------|------------:
+<!---------------------------- --------------------------------->    | <!-- -->  
+------------------------------------------------------------------|------------:
 **PhD Biosystems Engineering** | Expected Dec. 2022  
 Dual Degree: PhD Environmental Science and Policy  | 
 Michigan State University, East Lansing, MI   |
@@ -34,11 +34,11 @@ Michigan State University, East Lansing, MI, GPA: 3.93	 |
 _______________________________________________________________________________
 **National Science Foundation Graduate Research Fellow **
 
-  -  Pursue PhD studies with the goal of elucidating factors involved in the fate and transport of microbial hazards in surface and drinking water to ultimately predict human health risk  
+  - Described the fate of pathogens in surface waters with mathematical models, identified factors influencing key persistence behaviors, and applied the improved persistence knowledge within the quantitative microbial risk assessment framework to characterize risks associated with pathogens in surface water matrices.   
   
 **MS Graduate Research Assistant **    
 
-  - Right Sizing Tomorrow’s Water Systems for Efficiency, Sustainability, and Public Health: Responsible for integrating the chemical and microbial analyses of water sampling efforts to determine risks associated with opportunistic pathogens in drinking water systems.  
+  - Right Sizing Tomorrow’s Water Systems for Efficiency, Sustainability, and Public Health: Integrated the chemical and microbial analyses of water sampling efforts to determine risks associated with opportunistic pathogens in drinking water systems.  
   
 **Undergraduate Researcher**  
 
@@ -73,6 +73,9 @@ ________________________________________________________________________________
 ------------------------------------------------------------|---------------:
 **Graduate Teaching Assistant** | FS 2018, 2020, 2021  
 BE 449- Human Health Risk- Formal lab instruction, grading, assisting students  | 
+**QMRA IV (NIH #R25GM135058) Co-Instructor (~40 students)**  | Summer 2022    
+Fate and Transport Modeling (45 minutes)   |
+Cost Benefit Analysis and Decision Trees (90 minutes)  |
 **Guest Lecturer (~30 students)**  | FS 2019    
 BE 449- Human Health Risk- Probability and Statistical Distributions (30 minutes)   |  
 BE 449- Human Health Risk- QMRA Methodology and Examples (45 minutes) |  
@@ -93,29 +96,26 @@ Columbus, Ohio, USA
 
 ## **PEER-REVIEWED PUBLICATIONS** 
 _______________________________________________________________________________
-  1. **Dean, K.** & Mitchell, J. 2022. Identifying Water Quality and Environmental Factors that Influence Indicator and Pathogen Decay in Natural Surface Waters. *Water Research*. https://doi.org/10.1016/j.watres.2022.118051
-  2. Kline, A., **Dean, K.**, Kossik, A.L., Harrison, J.C., Januch, J.D., Beck, N.K., Zhou, N.A., Shirai, J.H., Boyle, D.S., Mitchell, J., & Meschke, J.S. 2022. Persistence of poliovirus types 2 and 3 in waste-impacted water and sediment. *PLOS One, 17*. https://doi.org/10.1371/journal.pone.0262761
-  3. **Dean, K.** & Mitchell, J. 2022. Exploring the Effects of Natural Stressors on Indicators and Pathogens in Surface Waters with Persistence Modeling. *Public Health and Water Conference & Wastewater Disease Surveillance Summit Conference Proceedings*, Cincinnati, Ohio, 21-24, March. Available at:
+  1. **Dean, K.** & Mitchell, J. 2022. Meta-analysis addressing the implications of model uncertainty in understanding the persistence of indicators and pathogens in natural surface waters. *In press*.
+  2. Coaster, N., **Dean, K.**, & Mitchell, J. 2022. Development of a dose-response model for Elizabethkingia spp. *In press*. 
+  3. **Dean, K.** & Mitchell, J. 2022. Identifying Water Quality and Environmental Factors that Influence Indicator and Pathogen Decay in Natural Surface Waters. *Water Research*. https://doi.org/10.1016/j.watres.2022.118051
+  4. Kline, A., **Dean, K.**, Kossik, A.L., Harrison, J.C., Januch, J.D., Beck, N.K., Zhou, N.A., Shirai, J.H., Boyle, D.S., Mitchell, J., & Meschke, J.S. 2022. Persistence of poliovirus types 2 and 3 in waste-impacted water and sediment. *PLOS One, 17*. https://doi.org/10.1371/journal.pone.0262761
+  5. **Dean, K.** & Mitchell, J. 2022. Exploring the Effects of Natural Stressors on Indicators and Pathogens in Surface Waters with Persistence Modeling. *Public Health and Water Conference & Wastewater Disease Surveillance Summit Conference Proceedings*, Cincinnati, Ohio, 21-24, March. Available at:
 https://www.accesswater.org/?id=-10080808&fromsearch=true#iosfirsthighlight
-  4. **Dean, K.**, Tamrakar, S., Huang, Y., Rose, J.B., and Mitchell, J. 2021. Modeling the dose response relationship of waterborne *Acanthamoeba*. *Risk Analysis, 41*(1). https://doi.org/10.1111/risa.13603
-  5. Mitchell, J., **Dean, K.**, & Haas, C. 2020. Ebola Virus Dose Response Model for Aerosolized Exposures: Insights from Primate Data. *Risk Analysis, 40*(11): 2390-2398. https://doi.org/10.1111/risa.13551
-  6. Julien, R., Dreelin, E., Whelton, A.J., Lee, J., Aw, T.G., **Dean, K.**, & Mitchell, J. 2020.
+  6. **Dean, K.**, Tamrakar, S., Huang, Y., Rose, J.B., and Mitchell, J. 2021. Modeling the dose response relationship of waterborne *Acanthamoeba*. *Risk Analysis, 41*(1). https://doi.org/10.1111/risa.13603
+  7. Mitchell, J., **Dean, K.**, & Haas, C. 2020. Ebola Virus Dose Response Model for Aerosolized Exposures: Insights from Primate Data. *Risk Analysis, 40*(11): 2390-2398. https://doi.org/10.1111/risa.13551
+  8. Julien, R., Dreelin, E., Whelton, A.J., Lee, J., Aw, T.G., **Dean, K.**, & Mitchell, J. 2020.
 Knowledge gaps and risks associated with premise plumbing drinking water quality. *AWWA Water Science, 2*(3). https://doi.org/10.1002/aws2.1177
-  7. **Dean, K.** and Mitchell, J. 2020. A dose response model for the inhalation route of exposure to *P.aeruginosa*. *Microbial Risk Analysis, 15*. https://doi.org/10.1016/j.mran.2020.100115
-  8. **Dean, K.**, Wissler, A., Hernandez-Suarez, J.S., Nejadhashemi, A.P., & Mitchell, J. 2020.
+  9. **Dean, K.** and Mitchell, J. 2020. A dose response model for the inhalation route of exposure to *P.aeruginosa*. *Microbial Risk Analysis, 15*. https://doi.org/10.1016/j.mran.2020.100115
+  10. **Dean, K.**, Wissler, A., Hernandez-Suarez, J.S., Nejadhashemi, A.P., & Mitchell, J. 2020.
 Modeling the Persistence of Viruses in Untreated Groundwater. *Science of the Total
 Environment, 717*(15). https://doi.org/10.1016/j.scitotenv.2019.134599
-  9. **Dean, K.** and Mitchell, J. 2020. Reverse QMRA for *Pseudomonas aeruginosa* in Premise
+  11. **Dean, K.** and Mitchell, J. 2020. Reverse QMRA for *Pseudomonas aeruginosa* in Premise
 Plumbing to Inform Risk Management. *Journal of Environmental Engineering, 146*(3). https://doi.org/10.1061/(ASCE)EE.1943-7870.0001641
- 10. **Dean, K.**, Weir, M.H., and Mitchell, J. 2019. Development of a Dose-Response Model for
+  12. **Dean, K.**, Weir, M.H., and Mitchell, J. 2019. Development of a Dose-Response Model for
 *Naegleria fowleri*. *Journal of Water and Health, 17*(1): 63-71. https://doi.org/10.2166/wh.2018.181
 
 
-## **PUBLICATIONS UNDER REVIEW** 
-_______________________________________________________________________________
-  1. **Dean, K.** & Mitchell, J. 2022. Meta-analysis addressing the implications of model uncertainty in understanding the persistence of indicators and pathogens in natural surface waters. Under Revision.
-  2. Coaster, N., **Dean, K.**, & Mitchell, J. 2022. Development of a dose-response model for Elizabethkingia spp. Under Revision.
- 
 ## **PRESENTATIONS** 
 _______________________________________________________________________________
   - **Dean, K.** & Mitchell, J. “A meta-analysis evaluating the persistence of indicators and 	pathogens in surface waters.” Association of Environmental Engineering and Science Professors, St. Louis, Missouri, June 28-30, 2022. Oral. 
@@ -178,9 +178,9 @@ Graduate Student Advisory Group | 2018-Present
       -  Vice Chair for '19-'20 term  |
       -  Secretary & Social Chair for '18-'19 term   |
 Microbial Risk Analysis Specialty Group | 2020-Present
+      -  Served as the Graduate Student Representative (2022) |
 Dose Response Specialty Group | 2019-Present
-      -  Served as the Graduate Student Representative |
-          -  Attended monthly officer meetings and helped plan research webinars for members |
+      -  Served as the Graduate Student Representative (2019) |
 American Society of Agricultural and Biological Engineers Annual Intl. Meeting | 2018
       -  Volunteer responsible for organizing materials and aiding presenters |
 Plumbing Safety Workshop, Purdue University, IN | 2017
