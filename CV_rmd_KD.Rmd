@@ -96,8 +96,8 @@ Columbus, Ohio, USA
 
 ## **PEER-REVIEWED PUBLICATIONS** 
 _______________________________________________________________________________
-  1. **Dean, K.** & Mitchell, J. 2022. Meta-analysis addressing the implications of model uncertainty in understanding the persistence of indicators and pathogens in natural surface waters. *In press*.
-  2. Coaster, N., **Dean, K.**, & Mitchell, J. 2022. Development of a dose-response model for Elizabethkingia spp. *In press*. 
+  1. **Dean, K.** & Mitchell, J. 2022. Meta-analysis addressing the implications of model uncertainty in understanding the persistence of indicators and pathogens in natural surface waters. *Environmental Science & Technology, In press*.
+  2. Coaster, N., **Dean, K.**, & Mitchell, J. 2022. Development of a dose-response model for Elizabethkingia spp. *Risk Analysis, In press*. 
   3. **Dean, K.** & Mitchell, J. 2022. Identifying Water Quality and Environmental Factors that Influence Indicator and Pathogen Decay in Natural Surface Waters. *Water Research*. https://doi.org/10.1016/j.watres.2022.118051
   4. Kline, A., **Dean, K.**, Kossik, A.L., Harrison, J.C., Januch, J.D., Beck, N.K., Zhou, N.A., Shirai, J.H., Boyle, D.S., Mitchell, J., & Meschke, J.S. 2022. Persistence of poliovirus types 2 and 3 in waste-impacted water and sediment. *PLOS One, 17*. https://doi.org/10.1371/journal.pone.0262761
   5. **Dean, K.** & Mitchell, J. 2022. Exploring the Effects of Natural Stressors on Indicators and Pathogens in Surface Waters with Persistence Modeling. *Public Health and Water Conference & Wastewater Disease Surveillance Summit Conference Proceedings*, Cincinnati, Ohio, 21-24, March. Available at:
