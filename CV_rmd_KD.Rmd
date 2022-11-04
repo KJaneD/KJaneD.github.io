@@ -118,7 +118,7 @@ Plumbing to Inform Risk Management. *Journal of Environmental Engineering, 146*(
 
 ## **PRESENTATIONS** 
 _______________________________________________________________________________
-  1. **Dean, K.** & Mitchell, J. “What you resist, will persist.” Great Lakes Beach Association Meeting. Muskegon, MI. October 31-November 2, 2022. Oral.
+  1. **Dean, K.** & Mitchell, J. “What you resist will persist.” Great Lakes Beach Association Meeting. Muskegon, MI. October 31-November 2, 2022. Oral.
   2. **Dean, K.** & Mitchell, J. “The impact of persistence model selectin on the assessment of human risks in surface waters.” UNC Water & Health Conference. University of North Carolina Chapel Hill, NC. October 24-28, 2022. Poster. 
   3. **Dean, K.** & Mitchell, J. “A meta-analysis evaluating the persistence of indicators and 	pathogens in surface waters.” Association of Environmental Engineering and Science Professors, St. Louis, Missouri, June 28-30, 2022. Oral. 
   4. **Dean, K.** & Mitchell, J. "A Hierarchical Analysis to Identify Pathogen Persistence Relationships in Surface Waters with Implications for Risk Assessment." Engineering Graduate Research Symposium, East Lansing, MI. April 14, 2022. Poster.
@@ -185,9 +185,10 @@ Plumbing Safety Workshop, Purdue University, IN | 2017
 _______________________________________________________________________________
  <!-- --> | <!-------------- ------------>    | <!-- -->  
 ---|------------------------------------------------------|---------------:
-1.|	Jack Kivi, Biosystems Engineering, MSU	| Fall 2021-Present
-2.|	Stephanie Starr, Biosystems Engineering, MSU	| Summer 2020-Present
-3.|	Gustavo Garay-Rodriguez, Crops and Agro-Environmental Sciences, University of Puerto Rico (MSU SROP)	| Summer 2021
-4.|	Natalie Coaster, Biosystems Engineering, MSU	| Fall 2019-Summer 2020
-5.|	Stephen Gonzalez, Biochemistry, California State University, Fullerton (MSU SROP)	| Summer 2020
-6.|	Esha Jain, Biosystems Engineering, MSU	| Fall 2017-Spring 2020
+1.|	Tyler Stump, Biosystems Engineering, MSU	| SS 2022-Present
+2.|	Jack Kivi, Biosystems Engineering, MSU	| FS 2021-SS 2022
+3.|	Stephanie Starr, Biosystems Engineering, MSU	| Summer 2020-SS 2022
+4.|	Gustavo Garay-Rodriguez, Crops and Agro-Environmental Sciences, University of Puerto Rico (MSU SROP)	| Summer 2021
+5.|	Natalie Coaster, Biosystems Engineering, MSU	| FS 2019-Summer 2020
+6.|	Stephen Gonzalez, Biochemistry, California State University, Fullerton (MSU SROP)	| Summer 2020
+7.|	Esha Jain, Biosystems Engineering, MSU	| FS 2017-SS 2020
