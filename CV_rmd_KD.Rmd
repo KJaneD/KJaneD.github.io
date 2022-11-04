@@ -96,8 +96,8 @@ Columbus, Ohio, USA
 
 ## **PEER-REVIEWED PUBLICATIONS** 
 _______________________________________________________________________________
-  1. **Dean, K.** & Mitchell, J. 2022. Meta-analysis addressing the implications of model uncertainty in understanding the persistence of indicators and pathogens in natural surface waters. *Environmental Science & Technology, In press*.
-  2. **Dean, K.**, Coaster, N., Young, K.,  & Mitchell, J. 2022. Development of a dose-response model for Elizabethkingia spp. *Risk Analysis, In press*. 
+  1. **Dean, K.** & Mitchell, J. 2022. Meta-analysis addressing the implications of model uncertainty in understanding the persistence of indicators and pathogens in natural surface waters. *Environmental Science & Technology, 56*(17). https://doi.org/10.1021/acs.est.1c07552
+  2. **Dean, K.**, Coaster, N., Young, K.,  & Mitchell, J. 2022. Development of a dose-response model for Elizabethkingia spp. *Risk Analysis, Early View*. https://doi.org/10.1111/risa.14013
   3. **Dean, K.** & Mitchell, J. 2022. Identifying Water Quality and Environmental Factors that Influence Indicator and Pathogen Decay in Natural Surface Waters. *Water Research*. https://doi.org/10.1016/j.watres.2022.118051
   4. Kline, A., **Dean, K.**, Kossik, A.L., Harrison, J.C., Januch, J.D., Beck, N.K., Zhou, N.A., Shirai, J.H., Boyle, D.S., Mitchell, J., & Meschke, J.S. 2022. Persistence of poliovirus types 2 and 3 in waste-impacted water and sediment. *PLOS One, 17*. https://doi.org/10.1371/journal.pone.0262761
   5. **Dean, K.** & Mitchell, J. 2022. Exploring the Effects of Natural Stressors on Indicators and Pathogens in Surface Waters with Persistence Modeling. *Public Health and Water Conference & Wastewater Disease Surveillance Summit Conference Proceedings*, Cincinnati, Ohio, 21-24, March. Available at:
@@ -118,43 +118,37 @@ Plumbing to Inform Risk Management. *Journal of Environmental Engineering, 146*(
 
 ## **PRESENTATIONS** 
 _______________________________________________________________________________
-  - **Dean, K.** & Mitchell, J. “A meta-analysis evaluating the persistence of indicators and 	pathogens in surface waters.” Association of Environmental Engineering and Science Professors, St. Louis, Missouri, June 28-30, 2022. Oral. 
-  - **Dean, K.** & Mitchell, J. "A Hierarchical Analysis to Identify Pathogen Persistence Relationships in Surface Waters with Implications for Risk Assessment." Engineering Graduate Research Symposium, East Lansing, MI. April 14, 2022. Poster.
- - **Dean, K.** & Mitchell, J. “Comparing Pathogen and Indicator Persistence in Surface Water to Inform Decision Makers.” Environmental Science and Policy Program Research Symposium, Virtual Platform, March 31, 2022. Oral.
- - **Dean, K.** & Mitchell, J. “Exploring the Effects of Natural Stressors on Indicators and Pathogens in Surface Waters with Persistence Modeling.” Public Health and Water
+  1. **Dean, K.** & Mitchell, J. “What you resist, will persist.” Great Lakes Beach Association Meeting. Muskegon, MI. October 31-November 2, 2022. Oral.
+  2. **Dean, K.** & Mitchell, J. “The impact of persistence model selectin on the assessment of human risks in surface waters.” UNC Water & Health Conference. University of North Carolina Chapel Hill, NC. October 24-28, 2022. Poster. 
+  3. **Dean, K.** & Mitchell, J. “A meta-analysis evaluating the persistence of indicators and 	pathogens in surface waters.” Association of Environmental Engineering and Science Professors, St. Louis, Missouri, June 28-30, 2022. Oral. 
+  4. **Dean, K.** & Mitchell, J. "A Hierarchical Analysis to Identify Pathogen Persistence Relationships in Surface Waters with Implications for Risk Assessment." Engineering Graduate Research Symposium, East Lansing, MI. April 14, 2022. Poster.
+  5. **Dean, K.** & Mitchell, J. “Comparing Pathogen and Indicator Persistence in Surface Water to Inform Decision Makers.” Environmental Science and Policy Program Research Symposium, Virtual Platform, March 31, 2022. Oral.
+  6. **Dean, K.** & Mitchell, J. “Exploring the Effects of Natural Stressors on Indicators and Pathogens in Surface Waters with Persistence Modeling.” Public Health and Water
 Conference & Wastewater Disease Surveillance Summit, Cincinnati, Ohio, March 21-24, 2022. Oral.
- - **Dean, K.** & Mitchell, J. “Addressing Model Uncertainty for the Persistence of Pathogens and Indicator Organisms in Surface Water Matrices.” 2021 Annual Meeting for the Society for Risk Analysis, Virtual Platform, December 5-9, 2021. Oral.
- - **Dean, K.** & Mitchell, J. “Developing a Dose Response Model for Ebolavirus.” 2020 Annual Meeting for the Society for Risk Analysis, Virtual Platform. December 13-17, 2020. Oral.
- - **Dean, K.**, Hamilton, K., Rasheduzzaman, M. Tolofari, D., Yang, Z., Bartrand, T., Gurian, P.L.,
+  7. **Dean, K.** & Mitchell, J. “Addressing Model Uncertainty for the Persistence of Pathogens and Indicator Organisms in Surface Water Matrices.” 2021 Annual Meeting for the Society for Risk Analysis, Virtual Platform, December 5-9, 2021. Oral.
+  8. **Dean, K.** & Mitchell, J. “Developing a Dose Response Model for Ebolavirus.” 2020 Annual Meeting for the Society for Risk Analysis, Virtual Platform. December 13-17, 2020. Oral.
+  9. **Dean, K.**, Hamilton, K., Rasheduzzaman, M. Tolofari, D., Yang, Z., Bartrand, T., Gurian, P.L.,
 Haas, C.N., Mitchell, J., and Singh, R. “Quantitative Microbial Risk Assessment for
 Opportunistic Premise Plumbing Pathogens: Challenges and Results from Three Case
 Studies.” American Water Works Association Annual Conference and Exposition,
 Denver, CO. June 9-12, 2019. Oral.
- - **Dean, K.** and Mitchell, J. “Quantifying the Risk of P. aeruginosa in Premise Plumbing for
-Building Design and Maintenance.” Association of Environmental Engineering and Science Professors Research and Education Conference, Tempe, AR. May 14-16, 2019. Poster.
- - **Dean, K.** and Mitchell, J. “Effect of Exposure Route on Threshold Levels of Concern for P.
-aeruginosa in Premise Plumbing Systems.” Engineering Graduate Research Symposium,
-East Lansing, MI. March 21, 2019. Poster.
- - **Dean, K.** and Mitchell, J. “Reverse QMRA for Pseudomonas aeruginosa in a showering event
-to inform monitoring levels.” 2018 Annual Meeting of the Society for Risk Analysis,
+  10. **Dean, K.** and Mitchell, J. “Quantifying the Risk of P. aeruginosa in Premise Plumbing for Building Design and Maintenance.” Association of Environmental Engineering and Science Professors Research and Education Conference, Tempe, AR. May 14-16, 2019. Poster.
+  11. **Dean, K.** and Mitchell, J. “Effect of Exposure Route on Threshold Levels of Concern for P. aeruginosa in Premise Plumbing Systems.” Engineering Graduate Research Symposium, East Lansing, MI. March 21, 2019. Poster.
+  12. **Dean, K.** and Mitchell, J. “Reverse QMRA for Pseudomonas aeruginosa in a showering event to inform monitoring levels.” 2018 Annual Meeting of the Society for Risk Analysis,
 New Orleans, LA. December 2-6, 2018. Oral.
- - **Dean, K.**, Tolofari, D., Hull, N. and Pierce-Walker, J. “Impacts of Showering Compliance
-Rates on the Risk of Infection from Cryptosporidium spp. in Swimming Pools.” 2018
-Annual Meeting of the Society for Risk Analysis, New Orleans, LA. December 2-6, 2018. Poster.
- - **Dean, K.** and Mitchell, J. “Parameter Estimation to Model Virus Persistence.” Inverse
-Problems Symposium, Michigan State University, MI. June 3-5, 2018. Oral.
-Dean, K.J., Julien, R. and Mitchell, J. “Assessment of Risks Associated with Pseudomonas aeruginosa in Low Flow Fixtures in a Residential Green Building.” UNC Water Microbiology Conference, University of North Carolina Chapel Hill, NC. May 22-24, 2018. Oral.
- - **Dean, K.**, Julien, R. and Mitchell, J. “Declining Water Use and the Compounding
+  13. **Dean, K.**, Tolofari, D., Hull, N. and Pierce-Walker, J. “Impacts of Showering Compliance Rates on the Risk of Infection from Cryptosporidium spp. in Swimming Pools.” 2018 Annual Meeting of the Society for Risk Analysis, New Orleans, LA. December 2-6, 2018. Poster.
+  14. **Dean, K.** and Mitchell, J. “Parameter Estimation to Model Virus Persistence.” Inverse Problems Symposium, Michigan State University, MI. June 3-5, 2018. Oral.
+  15. **Dean, K.**, Julien, R. and Mitchell, J. “Assessment of Risks Associated with Pseudomonas aeruginosa in Low Flow Fixtures in a Residential Green Building.” UNC Water Microbiology Conference, University of North Carolina Chapel Hill, NC. May 22-24, 2018. Oral.
+  16. **Dean, K.**, Julien, R. and Mitchell, J. “Declining Water Use and the Compounding
 Effects of Green Building Design.” Engineering Graduate Research Symposium,
 Michigan State University, MI. March 29, 2018. Poster.
- - **Dean, K.**, Willis, E., and Mitchell, J. Persistence Modeling of MS2. University
+  17. **Dean, K.**, Willis, E., and Mitchell, J. Persistence Modeling of MS2. University
 Undergraduate Research and Arts Forum. Michigan State University, MI. April 2018. Poster.
- - Mitchell, J.,  **Dean, K.**, Tamrakar, S., Huang, Y. and Rose, J. “Opportunistic pathogen dose-
-response models.” 2017 Annual Meeting of the Society for Risk Analysis Arlington, VA. December 2017. Oral.
- - **Dean, K.** and Mitchell, J. “Are Indicator Bacteria Representative of Actual Health
+  18. Mitchell, J.,  **Dean, K.**, Tamrakar, S., Huang, Y. and Rose, J. “Opportunistic pathogen dose-response models.” 2017 Annual Meeting of the Society for Risk Analysis Arlington, VA. December 2017. Oral.
+  19. **Dean, K.** and Mitchell, J. “Are Indicator Bacteria Representative of Actual Health
 Risk: A Seawater Assessment.” University Undergraduate Research and Arts Forum.
 Michigan State University, MI. April 2017. Poster.
- - **Dean, K.** and Mitchell, J. “Developing Dose Response Models for Opportunistic
+  20. **Dean, K.** and Mitchell, J. “Developing Dose Response Models for Opportunistic
 Pathogens: Key to Assessing Risk.” University Undergraduate Research and Arts Forum.
 Michigan State University, MI. April 2016. Poster.
 
