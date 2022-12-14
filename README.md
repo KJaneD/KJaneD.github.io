@@ -1,6 +1,6 @@
 # Welcome!
 
-I graduated with my PhD in December 2022 from the Department of Biosystems and Agricultural Engineering [(BAE)](https://www.egr.msu.edu/bae/) at Michigan State University. I have been a part of the [Mitchell lab](http://www.jmitchellphd.com/) for the past six years, and my research interests include quantitative microbial risk assessment (QMRA), persistence, and dose response modeling. 
+I graduated with my PhD in December 2022 from the Department of Biosystems and Agricultural Engineering [(BAE)](https://www.egr.msu.edu/bae/) at Michigan State University. I have been a part of the [Mitchell lab](http://www.jmitchellphd.com/) for the past six years, and my research interests include quantitative microbial risk assessment (QMRA), water quality, pathogen persistence, and dose response modeling. 
 
 Check out my [CV](./CV_rmd_KD.html) to see my background and accomplishments in academia. 
 
