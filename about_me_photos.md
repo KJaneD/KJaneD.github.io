@@ -5,3 +5,5 @@
 <img align="center" src="/docs/assets/glacier_river.jpg" alt="A river in Glacier National Park on a foggy morning">
 <img align="center" src="/docs/assets/lake_of_the_clouds.jpg" alt="Lake of the Clouds in the Porcupine Mountains in Michigan's Upper Peninsula">
 <img align="center" src="/docs/assets/pictured_rocks.jpg" alt="A view of Pictured Rocks and Lake Superior in the Upper Peninsula of Michigan">
+<img align="center" src="/docs/assets/lake_superior_prov_park_beach.jpg" alt="A rocky shoreline along Lake Superior in Ontario">
+<img align="center" src="/docs/assets/lake_superior_prov_park_trail.jpg" alt="Part of the the Lake Superior Coastal Trail">

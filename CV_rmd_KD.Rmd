@@ -96,8 +96,8 @@ Columbus, Ohio, USA
 
 ## **PEER-REVIEWED PUBLICATIONS** 
 _______________________________________________________________________________
-  1. **Dean, K.** & Mitchell, J. 2022. Meta-analysis addressing the implications of model uncertainty in understanding the persistence of indicators and pathogens in natural surface waters. *Environmental Science & Technology, 56*(17):12106-12115. https://doi.org/10.1021/acs.est.1c07552
-  2. Coaster, N., **Dean, K.**, & Mitchell, J. 2022. Development of a dose-response model for Elizabethkingia spp. *Risk Analysis, Online Version*. https://doi.org/10.1111/risa.14013
+  1. **Dean, K.** & Mitchell, J. 2022. Meta-analysis addressing the implications of model uncertainty in understanding the persistence of indicators and pathogens in natural surface waters. *Environmental Science & Technology, 56*(17). https://doi.org/10.1021/acs.est.1c07552
+  2. **Dean, K.**, Coaster, N., Young, K.,  & Mitchell, J. 2022. Development of a dose-response model for Elizabethkingia spp. *Risk Analysis, Early View*. https://doi.org/10.1111/risa.14013
   3. **Dean, K.** & Mitchell, J. 2022. Identifying Water Quality and Environmental Factors that Influence Indicator and Pathogen Decay in Natural Surface Waters. *Water Research*. https://doi.org/10.1016/j.watres.2022.118051
   4. Kline, A., **Dean, K.**, Kossik, A.L., Harrison, J.C., Januch, J.D., Beck, N.K., Zhou, N.A., Shirai, J.H., Boyle, D.S., Mitchell, J., & Meschke, J.S. 2022. Persistence of poliovirus types 2 and 3 in waste-impacted water and sediment. *PLOS One, 17*. https://doi.org/10.1371/journal.pone.0262761
   5. **Dean, K.** & Mitchell, J. 2022. Exploring the Effects of Natural Stressors on Indicators and Pathogens in Surface Waters with Persistence Modeling. *Public Health and Water Conference & Wastewater Disease Surveillance Summit Conference Proceedings*, Cincinnati, Ohio, 21-24, March. Available at:
@@ -151,8 +151,6 @@ Undergraduate Research and Arts Forum. Michigan State University, MI. April 2018
 Risk: A Seawater Assessment.” University Undergraduate Research and Arts Forum.
 Michigan State University, MI. April 2017. Poster.
  22. **Dean, K.** and Mitchell, J. “Developing Dose Response Models for Opportunistic
-Pathogens: Key to Assessing Risk.” University Undergraduate Research and Arts Forum.
-Michigan State University, MI. April 2016. Poster.
 
 ## **PROFESSIONAL MEMBERSHIPS** 
 _______________________________________________________________________________
@@ -188,10 +186,11 @@ Plumbing Safety Workshop, Purdue University, IN | 2017
 _______________________________________________________________________________
  <!-- --> | <!-------------- ------------>    | <!-- -->  
 ---|------------------------------------------------------|---------------:
-1.|	Tyler Stump, Biosystems Engineering, MSU	| Spring 2022-Present
-2.|	Jack Kivi, Biosystems Engineering, MSU	| Fall 2021-Spring 2022
-3.|	Stephanie Starr, Biosystems Engineering, MSU	| Summer 2020-Spring 2022
+1.|	Tyler Stump, Biosystems Engineering, MSU	| SS 2022-Present
+2.|	Jack Kivi, Biosystems Engineering, MSU	| FS 2021-SS 2022
+3.|	Stephanie Starr, Biosystems Engineering, MSU	| Summer 2020-SS 2022
 4.|	Gustavo Garay-Rodriguez, Crops and Agro-Environmental Sciences, University of Puerto Rico (MSU SROP)	| Summer 2021
-5.|	Natalie Coaster, Biosystems Engineering, MSU	| Fall 2019-Summer 2020
+5.|	Natalie Coaster, Biosystems Engineering, MSU	| FS 2019-Summer 2020
 6.|	Stephen Gonzalez, Biochemistry, California State University, Fullerton (MSU SROP)	| Summer 2020
-7.|	Esha Jain, Biosystems Engineering, MSU	| Fall 2017-Spring 2020
+7.|	Esha Jain, Biosystems Engineering, MSU	| FS 2017-SS 2020
+
