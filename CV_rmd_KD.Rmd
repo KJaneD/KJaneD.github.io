@@ -32,6 +32,10 @@ Michigan State University, East Lansing, MI, GPA: 3.93	 |
 
 ## **RESEARCH EXPERIENCE** 
 _______________________________________________________________________________
+**Research Associate- QMRA IV Program Coordinator **
+
+  - Directed the daily logistics of course coordination, collaborated with STEM education faculty to collect and analyze assessment and evaluation data, supported the content creation of research education materials and outputs including interactive online training and in-person team science workshops, managed the interface between the pedagogical and content experts and the learning technology research experts, and assisted in the development of novel research case studies used for project-based learning.
+  
 **National Science Foundation Graduate Research Fellow **
 
   - Described the fate of pathogens in surface waters with mathematical models, identified factors influencing key persistence behaviors, and applied the improved persistence knowledge within the quantitative microbial risk assessment framework to characterize risks associated with pathogens in surface water matrices.   
