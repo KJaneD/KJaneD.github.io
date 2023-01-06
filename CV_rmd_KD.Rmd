@@ -1,6 +1,6 @@
 ---
 title: |
-       | Kara Jane Dean, M.S.
+       | Kara Jane Dean, PhD
 subtitle: | 
           | <font size="3" >Michigan State University</font>
           | <font size="3" >Biosystems and Agricultural Engineering</font>
