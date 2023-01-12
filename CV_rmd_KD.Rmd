@@ -32,27 +32,16 @@ Michigan State University, East Lansing, MI, GPA: 3.93	 |
 
 ## **RESEARCH EXPERIENCE** 
 _______________________________________________________________________________
-**Research Associate- QMRA IV Program Coordinator **
-
-  - Directed the daily logistics of course coordination, collaborated with STEM education faculty to collect and analyze assessment and evaluation data, supported the content creation of research education materials and outputs including interactive online training and in-person team science workshops, managed the interface between the pedagogical and content experts and the learning technology research experts, and assisted in the development of novel research case studies used for project-based learning.
-  
-**National Science Foundation Graduate Research Fellow **
-
-  - Described the fate of pathogens in surface waters with mathematical models, identified factors influencing key persistence behaviors, and applied the improved persistence knowledge within the quantitative microbial risk assessment framework to characterize risks associated with pathogens in surface water matrices.   
-  
-**MS Graduate Research Assistant **    
-
-  - Right Sizing Tomorrow’s Water Systems for Efficiency, Sustainability, and Public Health: Integrated the chemical and microbial analyses of water sampling efforts to determine risks associated with opportunistic pathogens in drinking water systems.  
-  
-**Undergraduate Researcher**  
-
-  -  Center for Advancing Microbial Risk Assessment (CAMRA): Used previous peer-reviewed dose response studies to produce dose response models to be used in future quantitative microbial risk assessments.   
-  
-  -  Citizen Science Study of Contaminant Exposures Related to Water Affordability in Detroit: Aided in the experimental design and interaction with the community to gather and interpret water sampling results. 
-  
-  -  Global Water Pathogens Project: Performed a literature review to identify and analyze the persistence of microorganisms in different matrices (freshwater, seawater, wastewater, etc.) and fit novel persistence models using R Statistical Programming Language.
-  
-  -  MSU Extension: Helped conduct an energy efficiency case study on Grand Valley Farm’s implementation of solar heating panels, LED lighting, and center-pivot irrigation     systems
+|<!-- -->| <!---------------------------- --------------------------------->| 
+|-------------| ------------------------------------------------------------------|
+|1/2023-present | **Research Associate, QMRA IV Program Coordinator **|
+|               |Directed the daily logistics of course coordination, collaborated with STEM education faculty to collect and analyze assessment and evaluation data, supported the content creation of research education materials and outputs including interactive online training and in-person team science workshops, managed the interface between the pedagogical and content experts and the learning technology research experts, and assisted in the development of novel research case studies used for project-based learning.|
+|9/2019-12/2022 | **National Science Foundation Graduate Research Fellow (PhD) **|
+|               |Described the fate of pathogens in surface waters with mathematical models, identified factors influencing key persistence behaviors, and applied the improved persistence knowledge within the quantitative microbial risk assessment framework to characterize risks associated with pathogens in surface water matrices. |  
+|5/2018-5/2019  | **Graduate Research Assistant (MS) ** |   
+|               |Integrated the chemical and microbial analyses of water sampling efforts to determine risks associated with opportunistic pathogens in drinking water systems under the Right Sizing Tomorrow’s Water Systems for Efficiency, Sustainability, and Public Health project (#R836890). | 
+|9/2014-5/2018  | **Undergraduate Researcher**  |
+|               |Conducted literature reviews, fit novel dose response and persistence models, and provided experimental design, data gathering and analysis support for the Center for Advancing Microbial Risk Assessment (CAMRA), the Citizen Science Study of Contaminant Exposures Related to Water Affordability in Detroit, the Global Water Pathogens Project (GWPP), and MSU Extension projects.   
 
 ## **AWARDS AND HONORS**
 ________________________________________________________________________________
