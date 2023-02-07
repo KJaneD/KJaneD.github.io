@@ -179,11 +179,12 @@ Plumbing Safety Workshop, Purdue University, IN | 2017
 _______________________________________________________________________________
  <!-- --> | <!-------------- ------------>    | <!-- -->  
 ---|------------------------------------------------------|---------------:
-1.|	Tyler Stump, Biosystems Engineering, MSU	| SS 2022-Present
-2.|	Jack Kivi, Biosystems Engineering, MSU	| FS 2021-SS 2022
-3.|	Stephanie Starr, Biosystems Engineering, MSU	| Summer 2020-SS 2022
-4.|	Gustavo Garay-Rodriguez, Crops and Agro-Environmental Sciences, University of Puerto Rico (MSU SROP)	| Summer 2021
-5.|	Natalie Coaster, Biosystems Engineering, MSU	| FS 2019-Summer 2020
-6.|	Stephen Gonzalez, Biochemistry, California State University, Fullerton (MSU SROP)	| Summer 2020
-7.|	Esha Jain, Biosystems Engineering, MSU	| FS 2017-SS 2020
+1.|	Kate Wernicke, Biosystems Engineering, MSU	| FS 2022-Present
+2.|	Tyler Stump, Biosystems Engineering, MSU	| SS 2022-Present
+3.|	Jack Kivi, Biosystems Engineering, MSU	| FS 2021-SS 2022
+4.|	Stephanie Starr, Biosystems Engineering, MSU	| Summer 2020-SS 2022
+5.|	Gustavo Garay-Rodriguez, Crops and Agro-Environmental Sciences, University of Puerto Rico (MSU SROP)	| Summer 2021
+6.|	Natalie Coaster, Biosystems Engineering, MSU	| FS 2019-Summer 2020
+7.|	Stephen Gonzalez, Biochemistry, California State University, Fullerton (MSU SROP)	| Summer 2020
+8.|	Esha Jain, Biosystems Engineering, MSU	| FS 2017-SS 2020
 
